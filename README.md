@@ -10,7 +10,7 @@ Aspiring web developer who loves building websites and web apps. Skilled in HTML
 *   ✉️  You can contact me at [joebertcerezo@gmail.com](mailto:joebertcerezo@gmail.com)
 *   🧠  I'm learning MERN
 *   🤝  I'm open to collaborating on Interesting projects
-*   ⚡  wala lang### Skills
+*   ⚡  wala lang
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
