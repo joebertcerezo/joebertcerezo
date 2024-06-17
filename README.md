@@ -6,7 +6,7 @@ Passionate Web Developer
 
 Aspiring web developer who loves building websites and web apps. Skilled in HTML, CSS, JavaScript, and React, and always excited to learn new things. Eager to work on projects that make a difference and improve my skills.
 
-*   🖥️  See my portfolio at [Joebert Cerezo](https://joebertcerezo.netlify.app/)
+*   🖥️  See my portfolio at [Joebert Cerezo](https://joebertcerezo.netlify.app/){:target="_blank"}
 *   ✉️  You can contact me at [joebertcerezo@gmail.com](mailto:joebertcerezo@gmail.com)
 *   🧠  I'm learning MERN
 *   🤝  I'm open to collaborating on Interesting projects
