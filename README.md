@@ -4,7 +4,7 @@ Hi 👋 My name is Joebert Cerezo
 Full Stack Software Engineer
 ----------------------------
 
-Passionate full-stack software engineer who loves building scalable web applications and mobile apps. Always excited to learn new technologies and frameworks. Eager to work on projects that make a difference and continuously improve my skills across the entire development stack.
+Full-stack software engineer who loves building scalable web applications and mobile apps. Always excited to learn new technologies and frameworks. Eager to work on projects that make a difference and continuously improve my skills across the entire development stack.
 
 *   🖥️  See my portfolio at [Joebert Cerezo](https://joebertcerezo.netlify.app/)
 *   ✉️  You can contact me at [joebertcerezo@gmail.com](mailto:joebertcerezo@gmail.com)
