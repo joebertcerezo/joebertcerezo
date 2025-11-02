@@ -69,10 +69,4 @@ Full-stack software engineer who loves building scalable web applications and mo
 
 ## 🚀 Open-source Contributions  
 
-<table>
-  <tr>
-    <td>
-      [![tttui](https://github-readme-stats.vercel.app/api/pin/?username=ReidoBoss&repo=tttui&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ReidoBoss/tttui)
-    </td>
-  </tr>
-</table>
+[![tttui](https://github-readme-stats.vercel.app/api/pin/?username=ReidoBoss&repo=tttui&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ReidoBoss/tttui)
