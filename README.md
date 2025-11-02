@@ -1,8 +1,6 @@
-Hi 👋 My name is Joebert Cerezo
-===============================
+# Hi 👋 My name is Joebert Cerezo
 
-Full Stack Software Engineer
-----------------------------
+## Full Stack Software Engineer
 
 Full-stack software engineer who loves building scalable web applications and mobile apps. Always excited to learn new technologies and frameworks. Eager to work on projects that make a difference and continuously improve my skills across the entire development stack.
 
@@ -60,10 +58,24 @@ Full-stack software engineer who loves building scalable web applications and mo
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
   <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" width="36" height="36" alt="Nuxt" /></a>
+  <a href="https://nitro.build/" target="_blank" rel="noreferrer">
+    <img src="https://nitro.build/icon.svg" width="36" height="36" alt="Nitro" /></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" /></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="36" height="36" alt="Postman" /></a>
+  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://docs.soliditylang.org/en/v0.8.30/_static/img/logo-dark.svg" width="36" height="36" alt="Solidity" /></a>
+  <a href="https://remix.ethereum.org" target="_blank" rel="noreferrer">
+    <img src="https://remix.ethereum.org/assets/img/remix-logo-blue.png" width="36" height="36" alt="Remix IDE" /></a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+    <img src="https://hardhat.org/favicon.ico" width="36" height="36" alt="Hardhat" /></a>
+  <a href="https://www.kaia.io/" target="_blank" rel="noreferrer">
+    <img src="https://docs.kaia.io/img/favicon.ico" width="36" height="36" alt="Kaia Blockchain" /></a>
+  <a href="https://docs.ethers.org/v5/" target="_blank" rel="noreferrer">
+    <img src="https://docs.ethers.org/favicon.ico" width="36" height="36" alt="Ether.js" /></a>
 </p>
 
 
