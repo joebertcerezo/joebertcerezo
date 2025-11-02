@@ -65,3 +65,14 @@ Full-stack software engineer who loves building scalable web applications and mo
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" /></a>
 </p>
+
+
+## 🚀 Open-source Contributions  
+
+<table>
+  <tr>
+    <td>
+      [![tttui](https://github-readme-stats.vercel.app/api/pin/?username=ReidoBoss&repo=tttui&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ReidoBoss/tttui)
+    </td>
+  </tr>
+</table>
