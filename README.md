@@ -76,6 +76,8 @@ Full-stack software engineer who loves building scalable web applications and mo
     <img src="https://docs.kaia.io/img/favicon.ico" width="36" height="36" alt="Kaia Blockchain" /></a>
   <a href="https://docs.ethers.org/v5/" target="_blank" rel="noreferrer">
     <img src="https://docs.ethers.org/favicon.ico" width="36" height="36" alt="Ether.js" /></a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
+    <img src="https://ethereum.org/favicon.ico" width="36" height="36" alt="Ethereum Blockchain" /></a>
 </p>
 
 
