@@ -11,7 +11,7 @@ Full-stack software engineer who loves building scalable web applications and mo
 *   ⚡  Full-stack enthusiast with a passion for clean code
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display: flex;">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -80,7 +80,67 @@ Full-stack software engineer who loves building scalable web applications and mo
     <img src="https://ethereum.org/favicon.ico" width="36" height="36" alt="Ethereum Blockchain" /></a>
 </p>
 
+[https://ethereum.org/favicon.ico](https://raw.githubusercontent.com/joebertcerezo/assets/7470572fbb37ef9a27bb614c627952b371bd5037/c-colored.svg)
 
+ <a href="https://ethereum.org/" style="display:inline-block;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/joebertcerezo/assets/7470572fbb37ef9a27bb614c627952b371bd5037/c-colored.svg" width="36" height="36" alt="Ethereum Blockchain" /></a>
+     <a href="https://ethereum.org/" style="display:inline-block;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/joebertcerezo/assets/7470572fbb37ef9a27bb614c627952b371bd5037/c-colored.svg" width="36" height="36" alt="Ethereum Blockchain" /></a>
+<a  style="display:inline-block;" >
+  <img src="https://raw.githubusercontent.com/joebertcerezo/assets/7470572fbb37ef9a27bb614c627952b371bd5037/c-colored.svg" style="display:inline-block;" width="36" height="36" alt="Ethereum Blockchain" />
+<img src="https://raw.githubusercontent.com/joebertcerezo/assets/7470572fbb37ef9a27bb614c627952b371bd5037/c-colored.svg" style="display:inline-block;" width="36" height="36" alt="Ethereum Blockchain" />
+</a>
+
+<table>
+<tr>
+<td><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a></td>
+<td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a></td>
+<td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a></td>
+<td><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a></td>
+<td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a></td>
+<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a></td>
+<td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a></td>
+<td><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="36" height="36" alt="Dart" /></a></td>
+</tr>
+
+<tr>
+<td><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a></td>
+<td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a></td>
+<td><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></td>
+<td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a></td>
+<td><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a></td>
+<td><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a></td>
+<td><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a></td>
+<td><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" /></a></td>
+</tr>
+
+<tr>
+<td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></td>
+<td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL" /></a></td>
+<td><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a></td>
+<td><a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="36" height="36" alt="Scala" /></a></td>
+<td><a href="https://www.playframework.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/319107?s=48&v=4" width="36" height="36" alt="Play Framework" /></a></td>
+<td><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a></td>
+<td><a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" width="36" height="36" alt="Nuxt" /></a></td>
+<td><a href="https://nitro.build/" target="_blank" rel="noreferrer"><img src="https://nitro.build/icon.svg" width="36" height="36" alt="Nitro" /></a></td>
+</tr>
+
+<tr>
+<td><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" /></a></td>
+<td><a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" /></a></td>
+<td><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="36" height="36" alt="Postman" /></a></td>
+<td><a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://docs.soliditylang.org/en/v0.8.30/_static/img/logo-dark.svg" width="36" height="36" alt="Solidity" /></a></td>
+<td><a href="https://remix.ethereum.org" target="_blank" rel="noreferrer"><img src="https://remix.ethereum.org/assets/img/remix-logo-blue.png" width="36" height="36" alt="Remix IDE" /></a></td>
+<td><a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://hardhat.org/favicon.ico" width="36" height="36" alt="Hardhat" /></a></td>
+<td><a href="https://www.kaia.io/" target="_blank" rel="noreferrer"><img src="https://docs.kaia.io/img/favicon.ico" width="36" height="36" alt="Kaia Blockchain" /></a></td>
+<td><a href="https://docs.ethers.org/v5/" target="_blank" rel="noreferrer"><img src="https://docs.ethers.org/favicon.ico" width="36" height="36" alt="Ether.js" /></a></td>
+</tr>
+
+<tr>
+<td><a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://ethereum.org/favicon.ico" width="36" height="36" alt="Ethereum Blockchain" /></a></td>
+</tr>
+</table>
+    
 ## 🚀 Open-source Contributions  
 
 [![tttui](https://github-readme-stats.vercel.app/api/pin/?username=ReidoBoss&repo=tttui&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ReidoBoss/tttui)
