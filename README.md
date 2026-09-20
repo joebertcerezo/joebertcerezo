@@ -58,6 +58,7 @@ Full-stack software engineer who loves building scalable web applications and mo
 
 <tr>
 <td><a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://ethereum.org/favicon.ico" width="36" height="36" alt="Ethereum Blockchain" /></a></td>
+<td><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="36" height="36" alt="Rust" /></a></td>
 </tr>
 </table>
     
